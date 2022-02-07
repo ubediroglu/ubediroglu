@@ -14,7 +14,7 @@ In my profession, I have gained experience in doing a project most productively 
 
 GitHub stats | GitHub streak stats  
 ------------- | -------------
-
+![GitHub stats ](https://github-readme-stats.vercel.app/api?username=ubediroglu&show_icons=true) | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ubediroglu)
 -------------
 
 ![Profile views](https://gpvc.arturio.dev/ubediroglu)  
