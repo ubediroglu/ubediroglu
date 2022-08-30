@@ -7,7 +7,7 @@ In my profession, I have gained experience in doing a project most productively 
 
 
 ## Skills and Experience
-* 🖥️ Javascript, Python, HTML, SQL, C#
+* 🖥️ Javascript, Python, HTML, SQL
 
 <br>
 
